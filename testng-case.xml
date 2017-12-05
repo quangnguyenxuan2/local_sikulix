@@ -1,0 +1,9 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<suite name = "Simple Testing Suite">
+
+    <test name = "Simple Testing test">
+        <classes>
+            <class name = "test.java.SikuliSeleniumTesting" />
+        </classes>
+    </test>
+</suite>
